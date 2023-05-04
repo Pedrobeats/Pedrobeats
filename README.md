@@ -9,7 +9,7 @@
 :wave: Apaixonado por códigos e educação. E vice-e-versa.
 
 <!-- INICIO PROJETOS -->
-| 🚀 **Projetos:** | 💻 **Feito com:** | **Descrição:**
+| 🚀 **Projetos:** | 💻 **Feito com:** | 📝 **Descrição:**
 | - | - | - |
 | [![Projeto3ponte](https://img.shields.io/static/v1?label=&message=Projeto3ponte&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Pedrobeats/Projeto3ponte)  | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) [![Tableau](https://img.shields.io/static/v1?label=&message=Tableau&color=E97627&logo=tableau&logoColor=FFFFFF)](https://www.tableau.com/)| O projeto "O Pedágio da Terceira Ponte em Números" consiste em uma visualização de dados interativa feita no Tableau que apresenta informações sobre o fluxo de veículos e arrecadação de pedágio na Terceira Ponte, localizada no estado do Espírito Santo, Brasil. |
 | [![DashboardTempoIntegral](https://img.shields.io/static/v1?label=&message=DashboardTempoIntegral&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Pedrobeats/DashboardTempoIntegral)  | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) [![Streamlit](https://img.shields.io/static/v1?label=&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF)](https://www.streamlit.io/) | Dashboard feito em Python com Informações públicas do Tempo Integral do ES. [Acesse o webapp aqui](https://tempointegrales.streamlit.app/) |
